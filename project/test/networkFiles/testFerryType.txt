@@ -1,0 +1,6 @@
+1
+stop0:0:1
+1
+ferry,orange,1:stop0
+1
+ferry,123,30,1,

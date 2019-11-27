@@ -1,0 +1,7 @@
+2
+stop:1:2
+stop2:10:11
+1
+bus,busroute,40:stop|stop2
+1
+bus,10,20,40,rego
